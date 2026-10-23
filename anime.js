@@ -24,54 +24,304 @@ const anime = [
         streamingUrl: "https://blakiteapi.xyz/embed/65942/1-1"
     },
 
-    {
-        id: 2,
-        title: "One Piece",
-        alternativeTitles: ["One Piece"],
-        description: "Monkey D. Luffy searches for the legendary One Piece.",
+     {
+        id: 1,
+        title: "Re: Zero - Starting Life in Another World",
+        alternativeTitles: ["re: zero"],
+        description: "Re:Zero − Starting Life in Another World is a dark fantasy and isekai anime/light novel series about Subaru Natsuki, an ordinary young man suddenly transported to a fantasy world.",
 
-        genre: ["Action", "Adventure", "Fantasy"],
-        rating: 9.0,
-        year: 1999,
+        genre: ["Action", "Adventure"],
+        rating: 8.4,
+        year: 2002,
 
         season: 1,
-        totalSeasons: 1,
-        totalEpisodes: null,
-        currentEpisode: null,
+        totalSeasons: 4,
+        totalEpisodes: 13,
+        currentEpisode: 2,
 
-        status: "ongoing",
+        status: "completed",
         trending: true,
         featured: true,
 
-        posterUrl: "https://placehold.co/300x450?text=One+Piece",
-        bannerUrl: "https://placehold.co/1200x500?text=One+Piece",
+        posterUrl: "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p13740325_b_v8_aa.jpg",
+        bannerUrl: "https://m.media-amazon.com/images/S/pv-target-images/8bc09ddb25a0c91c84b0079bf8027bf715fad3f8d782180451dc2de37005b848.jpg",
 
-        streamingUrl: ""
+        streamingUrl: "https://blakiteapi.xyz/embed/65942/1-2"
     },
 
     {
-        id: 3,
-        title: "Demon Slayer",
-        alternativeTitles: ["Kimetsu no Yaiba"],
-        description: "Tanjiro fights demons to save his sister.",
+        id: 1,
+        title: "Re: Zero - Starting Life in Another World",
+        alternativeTitles: ["re: zero"],
+        description: "Re:Zero − Starting Life in Another World is a dark fantasy and isekai anime/light novel series about Subaru Natsuki, an ordinary young man suddenly transported to a fantasy world.",
 
-        genre: ["Action", "Fantasy"],
-        rating: 8.7,
-        year: 2019,
+        genre: ["Action", "Adventure"],
+        rating: 8.4,
+        year: 2002,
 
         season: 1,
-        totalSeasons: 5,
-        totalEpisodes: null,
-        currentEpisode: null,
+        totalSeasons: 1,
+        totalEpisodes: 13,
+        currentEpisode: 3,
 
-        status: "ongoing",
+        status: "completed",
         trending: true,
-        featured: false,
+        featured: true,
 
-        posterUrl: "https://placehold.co/300x450?text=Demon+Slayer",
-        bannerUrl: "https://placehold.co/1200x500?text=Demon+Slayer",
+        posterUrl: "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p13740325_b_v8_aa.jpg",
+        bannerUrl: "https://m.media-amazon.com/images/S/pv-target-images/8bc09ddb25a0c91c84b0079bf8027bf715fad3f8d782180451dc2de37005b848.jpg",
 
-        streamingUrl: ""
+        streamingUrl: "https://blakiteapi.xyz/embed/65942/1-3"
+    },
+
+    {
+        id: 1,
+        title: "Re: Zero - Starting Life in Another World",
+        alternativeTitles: ["re: zero"],
+        description: "Re:Zero − Starting Life in Another World is a dark fantasy and isekai anime/light novel series about Subaru Natsuki, an ordinary young man suddenly transported to a fantasy world.",
+
+        genre: ["Action", "Adventure"],
+        rating: 8.4,
+        year: 2002,
+
+        season: 1,
+        totalSeasons: 1,
+        totalEpisodes: 13,
+        currentEpisode: 4,
+
+        status: "completed",
+        trending: true,
+        featured: true,
+
+        posterUrl: "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p13740325_b_v8_aa.jpg",
+        bannerUrl: "https://m.media-amazon.com/images/S/pv-target-images/8bc09ddb25a0c91c84b0079bf8027bf715fad3f8d782180451dc2de37005b848.jpg",
+
+        streamingUrl: "https://blakiteapi.xyz/embed/65942/1-4"
+    },
+
+    {
+        id: 1,
+        title: "Re: Zero - Starting Life in Another World",
+        alternativeTitles: ["re: zero"],
+        description: "Re:Zero − Starting Life in Another World is a dark fantasy and isekai anime/light novel series about Subaru Natsuki, an ordinary young man suddenly transported to a fantasy world.",
+
+        genre: ["Action", "Adventure"],
+        rating: 8.4,
+        year: 2002,
+
+        season: 1,
+        totalSeasons: 1,
+        totalEpisodes: 13,
+        currentEpisode: 5,
+
+        status: "completed",
+        trending: true,
+        featured: true,
+
+        posterUrl: "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p13740325_b_v8_aa.jpg",
+        bannerUrl: "https://m.media-amazon.com/images/S/pv-target-images/8bc09ddb25a0c91c84b0079bf8027bf715fad3f8d782180451dc2de37005b848.jpg",
+
+        streamingUrl: "https://blakiteapi.xyz/embed/65942/1-5"
+    },
+
+    {
+        id: 1,
+        title: "Re: Zero - Starting Life in Another World",
+        alternativeTitles: ["re: zero"],
+        description: "Re:Zero − Starting Life in Another World is a dark fantasy and isekai anime/light novel series about Subaru Natsuki, an ordinary young man suddenly transported to a fantasy world.",
+
+        genre: ["Action", "Adventure"],
+        rating: 8.4,
+        year: 2002,
+
+        season: 1,
+        totalSeasons: 1,
+        totalEpisodes: 13,
+        currentEpisode: 6,
+
+        status: "completed",
+        trending: true,
+        featured: true,
+
+        posterUrl: "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p13740325_b_v8_aa.jpg",
+        bannerUrl: "https://m.media-amazon.com/images/S/pv-target-images/8bc09ddb25a0c91c84b0079bf8027bf715fad3f8d782180451dc2de37005b848.jpg",
+
+        streamingUrl: "https://blakiteapi.xyz/embed/65942/1-6"
+    },
+
+    {
+        id: 1,
+        title: "Re: Zero - Starting Life in Another World",
+        alternativeTitles: ["re: zero"],
+        description: "Re:Zero − Starting Life in Another World is a dark fantasy and isekai anime/light novel series about Subaru Natsuki, an ordinary young man suddenly transported to a fantasy world.",
+
+        genre: ["Action", "Adventure"],
+        rating: 8.4,
+        year: 2002,
+
+        season: 1,
+        totalSeasons: 1,
+        totalEpisodes: 13,
+        currentEpisode: 7,
+
+        status: "completed",
+        trending: true,
+        featured: true,
+
+        posterUrl: "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p13740325_b_v8_aa.jpg",
+        bannerUrl: "https://m.media-amazon.com/images/S/pv-target-images/8bc09ddb25a0c91c84b0079bf8027bf715fad3f8d782180451dc2de37005b848.jpg",
+
+        streamingUrl: "https://blakiteapi.xyz/embed/65942/1-7"
+    },
+
+    {
+        id: 1,
+        title: "Re: Zero - Starting Life in Another World",
+        alternativeTitles: ["re: zero"],
+        description: "Re:Zero − Starting Life in Another World is a dark fantasy and isekai anime/light novel series about Subaru Natsuki, an ordinary young man suddenly transported to a fantasy world.",
+
+        genre: ["Action", "Adventure"],
+        rating: 8.4,
+        year: 2002,
+
+        season: 1,
+        totalSeasons: 1,
+        totalEpisodes: 13,
+        currentEpisode: 8,
+
+        status: "completed",
+        trending: true,
+        featured: true,
+
+        posterUrl: "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p13740325_b_v8_aa.jpg",
+        bannerUrl: "https://m.media-amazon.com/images/S/pv-target-images/8bc09ddb25a0c91c84b0079bf8027bf715fad3f8d782180451dc2de37005b848.jpg",
+
+        streamingUrl: "https://blakiteapi.xyz/embed/65942/1-8"
+    },
+
+    {
+        id: 1,
+        title: "Re: Zero - Starting Life in Another World",
+        alternativeTitles: ["re: zero"],
+        description: "Re:Zero − Starting Life in Another World is a dark fantasy and isekai anime/light novel series about Subaru Natsuki, an ordinary young man suddenly transported to a fantasy world.",
+
+        genre: ["Action", "Adventure"],
+        rating: 8.4,
+        year: 2002,
+
+        season: 1,
+        totalSeasons: 1,
+        totalEpisodes: 13,
+        currentEpisode: 9,
+
+        status: "completed",
+        trending: true,
+        featured: true,
+
+        posterUrl: "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p13740325_b_v8_aa.jpg",
+        bannerUrl: "https://m.media-amazon.com/images/S/pv-target-images/8bc09ddb25a0c91c84b0079bf8027bf715fad3f8d782180451dc2de37005b848.jpg",
+
+        streamingUrl: "https://blakiteapi.xyz/embed/65942/1-9"
+    },
+
+    {
+        id: 1,
+        title: "Re: Zero - Starting Life in Another World",
+        alternativeTitles: ["re: zero"],
+        description: "Re:Zero − Starting Life in Another World is a dark fantasy and isekai anime/light novel series about Subaru Natsuki, an ordinary young man suddenly transported to a fantasy world.",
+
+        genre: ["Action", "Adventure"],
+        rating: 8.4,
+        year: 2002,
+
+        season: 1,
+        totalSeasons: 1,
+        totalEpisodes: 13,
+        currentEpisode: 10,
+
+        status: "completed",
+        trending: true,
+        featured: true,
+
+        posterUrl: "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p13740325_b_v8_aa.jpg",
+        bannerUrl: "https://m.media-amazon.com/images/S/pv-target-images/8bc09ddb25a0c91c84b0079bf8027bf715fad3f8d782180451dc2de37005b848.jpg",
+
+        streamingUrl: "https://blakiteapi.xyz/embed/65942/1-10"
+    },
+
+    {
+        id: 1,
+        title: "Re: Zero - Starting Life in Another World",
+        alternativeTitles: ["re: zero"],
+        description: "Re:Zero − Starting Life in Another World is a dark fantasy and isekai anime/light novel series about Subaru Natsuki, an ordinary young man suddenly transported to a fantasy world.",
+
+        genre: ["Action", "Adventure"],
+        rating: 8.4,
+        year: 2002,
+
+        season: 1,
+        totalSeasons: 1,
+        totalEpisodes: 13,
+        currentEpisode: 11,
+
+        status: "completed",
+        trending: true,
+        featured: true,
+
+        posterUrl: "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p13740325_b_v8_aa.jpg",
+        bannerUrl: "https://m.media-amazon.com/images/S/pv-target-images/8bc09ddb25a0c91c84b0079bf8027bf715fad3f8d782180451dc2de37005b848.jpg",
+
+        streamingUrl: "https://blakiteapi.xyz/embed/65942/1-11"
+    },
+
+    {
+        id: 1,
+        title: "Re: Zero - Starting Life in Another World",
+        alternativeTitles: ["re: zero"],
+        description: "Re:Zero − Starting Life in Another World is a dark fantasy and isekai anime/light novel series about Subaru Natsuki, an ordinary young man suddenly transported to a fantasy world.",
+
+        genre: ["Action", "Adventure"],
+        rating: 8.4,
+        year: 2002,
+
+        season: 1,
+        totalSeasons: 1,
+        totalEpisodes: 13,
+        currentEpisode: 12,
+
+        status: "completed",
+        trending: true,
+        featured: true,
+
+        posterUrl: "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p13740325_b_v8_aa.jpg",
+        bannerUrl: "https://m.media-amazon.com/images/S/pv-target-images/8bc09ddb25a0c91c84b0079bf8027bf715fad3f8d782180451dc2de37005b848.jpg",
+
+        streamingUrl: "https://blakiteapi.xyz/embed/65942/1-12"
+    },
+
+    {
+        id: 1,
+        title: "Re: Zero - Starting Life in Another World",
+        alternativeTitles: ["re: zero"],
+        description: "Re:Zero − Starting Life in Another World is a dark fantasy and isekai anime/light novel series about Subaru Natsuki, an ordinary young man suddenly transported to a fantasy world.",
+
+        genre: ["Action", "Adventure"],
+        rating: 8.4,
+        year: 2002,
+
+        season: 1,
+        totalSeasons: 1,
+        totalEpisodes: 13,
+        currentEpisode: 13,
+
+        status: "completed",
+        trending: true,
+        featured: true,
+
+        posterUrl: "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p13740325_b_v8_aa.jpg",
+        bannerUrl: "https://m.media-amazon.com/images/S/pv-target-images/8bc09ddb25a0c91c84b0079bf8027bf715fad3f8d782180451dc2de37005b848.jpg",
+
+        streamingUrl: "https://blakiteapi.xyz/embed/65942/1-13"
     },
 ];
 
