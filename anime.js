@@ -1,7 +1,7 @@
 const anime = [
     {
         id: 1,
-        title: "Re: Zero - Starting Life in Another World",
+        title: "Re Zero season 1",
         alternativeTitles: ["re: zero"],
         description: "Re:Zero − Starting Life in Another World is a dark fantasy and isekai anime/light novel series about Subaru Natsuki, an ordinary young man suddenly transported to a fantasy world.",
 
@@ -35,7 +35,7 @@ const anime = [
         year: 2002,
 
         season: 1,
-        totalSeasons: 4,
+        totalSeasons: 1,
         totalEpisodes: 13,
         currentEpisode: 2,
 
@@ -51,7 +51,7 @@ const anime = [
 
     {
         id: 1,
-        title: "Re: Zero - Starting Life in Another World",
+        title: "Re Zero season 1",
         alternativeTitles: ["re: zero"],
         description: "Re:Zero − Starting Life in Another World is a dark fantasy and isekai anime/light novel series about Subaru Natsuki, an ordinary young man suddenly transported to a fantasy world.",
 
@@ -76,7 +76,7 @@ const anime = [
 
     {
         id: 1,
-        title: "Re: Zero - Starting Life in Another World",
+        title: "Re Zero season 1",
         alternativeTitles: ["re: zero"],
         description: "Re:Zero − Starting Life in Another World is a dark fantasy and isekai anime/light novel series about Subaru Natsuki, an ordinary young man suddenly transported to a fantasy world.",
 
@@ -101,7 +101,7 @@ const anime = [
 
     {
         id: 1,
-        title: "Re: Zero - Starting Life in Another World",
+        title: "Re Zero season 1",
         alternativeTitles: ["re: zero"],
         description: "Re:Zero − Starting Life in Another World is a dark fantasy and isekai anime/light novel series about Subaru Natsuki, an ordinary young man suddenly transported to a fantasy world.",
 
@@ -126,7 +126,7 @@ const anime = [
 
     {
         id: 1,
-        title: "Re: Zero - Starting Life in Another World",
+        title: "Re Zero season 1",
         alternativeTitles: ["re: zero"],
         description: "Re:Zero − Starting Life in Another World is a dark fantasy and isekai anime/light novel series about Subaru Natsuki, an ordinary young man suddenly transported to a fantasy world.",
 
@@ -151,7 +151,7 @@ const anime = [
 
     {
         id: 1,
-        title: "Re: Zero - Starting Life in Another World",
+        title: "Re Zero season 1",
         alternativeTitles: ["re: zero"],
         description: "Re:Zero − Starting Life in Another World is a dark fantasy and isekai anime/light novel series about Subaru Natsuki, an ordinary young man suddenly transported to a fantasy world.",
 
@@ -176,7 +176,7 @@ const anime = [
 
     {
         id: 1,
-        title: "Re: Zero - Starting Life in Another World",
+        title: "Re Zero season 1",
         alternativeTitles: ["re: zero"],
         description: "Re:Zero − Starting Life in Another World is a dark fantasy and isekai anime/light novel series about Subaru Natsuki, an ordinary young man suddenly transported to a fantasy world.",
 
@@ -201,7 +201,7 @@ const anime = [
 
     {
         id: 1,
-        title: "Re: Zero - Starting Life in Another World",
+        title: "Re Zero season 1",
         alternativeTitles: ["re: zero"],
         description: "Re:Zero − Starting Life in Another World is a dark fantasy and isekai anime/light novel series about Subaru Natsuki, an ordinary young man suddenly transported to a fantasy world.",
 
@@ -226,7 +226,7 @@ const anime = [
 
     {
         id: 1,
-        title: "Re: Zero - Starting Life in Another World",
+        title: "Re Zero season 1",
         alternativeTitles: ["re: zero"],
         description: "Re:Zero − Starting Life in Another World is a dark fantasy and isekai anime/light novel series about Subaru Natsuki, an ordinary young man suddenly transported to a fantasy world.",
 
@@ -251,7 +251,7 @@ const anime = [
 
     {
         id: 1,
-        title: "Re: Zero - Starting Life in Another World",
+        title: "Re zero season 1",
         alternativeTitles: ["re: zero"],
         description: "Re:Zero − Starting Life in Another World is a dark fantasy and isekai anime/light novel series about Subaru Natsuki, an ordinary young man suddenly transported to a fantasy world.",
 
@@ -276,7 +276,7 @@ const anime = [
 
     {
         id: 1,
-        title: "Re: Zero - Starting Life in Another World",
+        title: "re zero season 1",
         alternativeTitles: ["re: zero"],
         description: "Re:Zero − Starting Life in Another World is a dark fantasy and isekai anime/light novel series about Subaru Natsuki, an ordinary young man suddenly transported to a fantasy world.",
 
@@ -301,7 +301,7 @@ const anime = [
 
     {
         id: 1,
-        title: "Re: Zero - Starting Life in Another World",
+        title: "Re zero season 1",
         alternativeTitles: ["re: zero"],
         description: "Re:Zero − Starting Life in Another World is a dark fantasy and isekai anime/light novel series about Subaru Natsuki, an ordinary young man suddenly transported to a fantasy world.",
 
@@ -323,6 +323,250 @@ const anime = [
 
         streamingUrl: "https://blakiteapi.xyz/embed/65942/1-13"
     },
-];
 
-module.exports = anime;
+   {
+        id: 2,
+        title: "The Eminence in Shadow",
+        alternativeTitles: ["shadow"],
+        description: "The Eminence in Shadow is a dark fantasy, comedy, and isekai anime and light novel series created by writer Daisuke Aizawa and illustrator Tōzai.",
+
+        genre: ["dark fantasy", "isakai"],
+        rating: 8.4,
+        year: 2002,
+
+        season: 1,
+        totalSeasons: 1,
+        totalEpisodes: 16,
+        currentEpisode: 1,
+
+        status: "completed",
+        trending: true,
+        featured: true,
+
+        posterUrl: "https://m.media-amazon.com/images/M/MV5BMDFmMWJlMWYtMDFkNi00OWViLTkzOGEtNDI0YWNmM2M5MzI5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        bannerUrl: "https://sm.ign.com/t/ign_in/screenshot/default/nno9vv217rg-hd_2877.1280.jpg",
+
+        streamingUrl: "https://blakiteapi.xyz/embed/0119495/1-1"
+    },
+
+  {
+        id: 2,
+        title: "The Eminence in Shadow",
+        alternativeTitles: ["shadow"],
+        description: "The Eminence in Shadow is a dark fantasy, comedy, and isekai anime and light novel series created by writer Daisuke Aizawa and illustrator Tōzai.",
+
+        genre: ["dark fantasy", "isakai"],
+        rating: 8.4,
+        year: 2002,
+
+        season: 1,
+        totalSeasons: 1,
+        totalEpisodes: 16,
+        currentEpisode: 2,
+
+        status: "completed",
+        trending: true,
+        featured: true,
+
+        posterUrl: "https://m.media-amazon.com/images/M/MV5BMDFmMWJlMWYtMDFkNi00OWViLTkzOGEtNDI0YWNmM2M5MzI5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        bannerUrl: "https://sm.ign.com/t/ign_in/screenshot/default/nno9vv217rg-hd_2877.1280.jpg",
+
+        streamingUrl: "https://blakiteapi.xyz/embed/0119495/1-2"
+    },
+
+  {
+        id: 2,
+        title: "The Eminence in Shadow",
+        alternativeTitles: ["shadow"],
+        description: "The Eminence in Shadow is a dark fantasy, comedy, and isekai anime and light novel series created by writer Daisuke Aizawa and illustrator Tōzai.",
+
+        genre: ["dark fantasy", "isakai"],
+        rating: 8.4,
+        year: 2002,
+
+        season: 1,
+        totalSeasons: 1,
+        totalEpisodes: 16,
+        currentEpisode: 3,
+
+        status: "completed",
+        trending: true,
+        featured: true,
+
+        posterUrl: "https://m.media-amazon.com/images/M/MV5BMDFmMWJlMWYtMDFkNi00OWViLTkzOGEtNDI0YWNmM2M5MzI5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        bannerUrl: "https://sm.ign.com/t/ign_in/screenshot/default/nno9vv217rg-hd_2877.1280.jpg",
+
+        streamingUrl: "https://blakiteapi.xyz/embed/0119495/1-3"
+    },
+
+  {
+        id: 2,
+        title: "The Eminence in Shadow",
+        alternativeTitles: ["shadow"],
+        description: "The Eminence in Shadow is a dark fantasy, comedy, and isekai anime and light novel series created by writer Daisuke Aizawa and illustrator Tōzai.",
+
+        genre: ["dark fantasy", "isakai"],
+        rating: 8.4,
+        year: 2002,
+
+        season: 1,
+        totalSeasons: 1,
+        totalEpisodes: 16,
+        currentEpisode: 4,
+
+        status: "completed",
+        trending: true,
+        featured: true,
+
+        posterUrl: "https://m.media-amazon.com/images/M/MV5BMDFmMWJlMWYtMDFkNi00OWViLTkzOGEtNDI0YWNmM2M5MzI5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        bannerUrl: "https://sm.ign.com/t/ign_in/screenshot/default/nno9vv217rg-hd_2877.1280.jpg",
+
+        streamingUrl: "https://blakiteapi.xyz/embed/0119495/1-4"
+    },
+
+  {
+        id: 2,
+        title: "The Eminence in Shadow",
+        alternativeTitles: ["shadow"],
+        description: "The Eminence in Shadow is a dark fantasy, comedy, and isekai anime and light novel series created by writer Daisuke Aizawa and illustrator Tōzai.",
+
+        genre: ["dark fantasy", "isakai"],
+        rating: 8.4,
+        year: 2002,
+
+        season: 1,
+        totalSeasons: 1,
+        totalEpisodes: 16,
+        currentEpisode: 5,
+
+        status: "completed",
+        trending: true,
+        featured: true,
+
+        posterUrl: "https://m.media-amazon.com/images/M/MV5BMDFmMWJlMWYtMDFkNi00OWViLTkzOGEtNDI0YWNmM2M5MzI5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        bannerUrl: "https://sm.ign.com/t/ign_in/screenshot/default/nno9vv217rg-hd_2877.1280.jpg",
+
+        streamingUrl: "https://blakiteapi.xyz/embed/0119495/1-5"
+    },
+
+  {
+        id: 2,
+        title: "The Eminence in Shadow",
+        alternativeTitles: ["shadow"],
+        description: "The Eminence in Shadow is a dark fantasy, comedy, and isekai anime and light novel series created by writer Daisuke Aizawa and illustrator Tōzai.",
+
+        genre: ["dark fantasy", "isakai"],
+        rating: 8.4,
+        year: 2002,
+
+        season: 1,
+        totalSeasons: 1,
+        totalEpisodes: 16,
+        currentEpisode: 6,
+
+        status: "completed",
+        trending: true,
+        featured: true,
+
+        posterUrl: "https://m.media-amazon.com/images/M/MV5BMDFmMWJlMWYtMDFkNi00OWViLTkzOGEtNDI0YWNmM2M5MzI5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        bannerUrl: "https://sm.ign.com/t/ign_in/screenshot/default/nno9vv217rg-hd_2877.1280.jpg",
+
+        streamingUrl: "https://blakiteapi.xyz/embed/0119495/1-6"
+    },
+
+  {
+        id: 2,
+        title: "The Eminence in Shadow",
+        alternativeTitles: ["shadow"],
+        description: "The Eminence in Shadow is a dark fantasy, comedy, and isekai anime and light novel series created by writer Daisuke Aizawa and illustrator Tōzai.",
+
+        genre: ["dark fantasy", "isakai"],
+        rating: 8.4,
+        year: 2002,
+
+        season: 1,
+        totalSeasons: 1,
+        totalEpisodes: 16,
+        currentEpisode: 7,
+
+        status: "completed",
+        trending: true,
+        featured: true,
+
+        posterUrl: "https://m.media-amazon.com/images/M/MV5BMDFmMWJlMWYtMDFkNi00OWViLTkzOGEtNDI0YWNmM2M5MzI5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        bannerUrl: "https://sm.ign.com/t/ign_in/screenshot/default/nno9vv217rg-hd_2877.1280.jpg",
+
+        streamingUrl: "https://blakiteapi.xyz/embed/0119495/1-7"
+    },
+
+  {
+        id: 2,
+        title: "The Eminence in Shadow",
+        alternativeTitles: ["shadow"],
+        description: "The Eminence in Shadow is a dark fantasy, comedy, and isekai anime and light novel series created by writer Daisuke Aizawa and illustrator Tōzai.",
+
+        genre: ["dark fantasy", "isakai"],
+        rating: 8.4,
+        year: 2002,
+
+        season: 1,
+        totalSeasons: 1,
+        totalEpisodes: 16,
+        currentEpisode: 8,
+
+        status: "completed",
+        trending: true,
+        featured: true,
+
+        posterUrl: "https://m.media-amazon.com/images/M/MV5BMDFmMWJlMWYtMDFkNi00OWViLTkzOGEtNDI0YWNmM2M5MzI5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        bannerUrl: "https://sm.ign.com/t/ign_in/screenshot/default/nno9vv217rg-hd_2877.1280.jpg",
+
+        streamingUrl: "https://blakiteapi.xyz/embed/0119495/1-8"
+    },
+
+  {
+        id: 2,
+        title: "The Eminence in Shadow",
+        alternativeTitles: ["shadow"],
+        description: "The Eminence in Shadow is a dark fantasy, comedy, and isekai anime and light novel series created by writer Daisuke Aizawa and illustrator Tōzai.",
+
+        genre: ["dark fantasy", "isakai"],
+        rating: 8.4,
+        year: 2002,
+
+        season: 1,
+        totalSeasons: 1,
+        totalEpisodes: 16,
+        currentEpisode: 9,
+
+        status: "completed",
+        trending: true,
+        featured: true,
+
+        posterUrl: "https://m.media-amazon.com/images/M/MV5BMDFmMWJlMWYtMDFkNi00OWViLTkzOGEtNDI0YWNmM2M5MzI5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        bannerUrl: "https://sm.ign.com/t/ign_in/screenshot/default/nno9vv217rg-hd_2877.1280.jpg",
+
+        streamingUrl: "https://blakiteapi.xyz/embed/0119495/1-9"
+    },
+
+  {
+        id: 2,
+        title: "The Eminence in Shadow",
+        alternativeTitles: ["shadow"],
+        description: "The Eminence in Shadow is a dark fantasy, comedy, and isekai anime and light novel series created by writer Daisuke Aizawa and illustrator Tōzai.",
+
+        genre: ["dark fantasy", "isakai"],
+        rating: 8.4,
+        year: 2002,
+
+        season: 1,
+        totalSeasons: 1,
+        totalEpisodes: 16,
+        currentEpisode: 10,
+
+        status: "completed",
+        trending: true,
+        featured: true,
+
+        posterUrl: "https://m.media-amazon.com/images/M/MV5BMDFmMWJlMWYtMDFkNi00OWViLTkzOGEtNDI0YWNmM2M5MzI5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        bannerUrl: "https://sm.ign.com/t/ign_in/screenshot/
