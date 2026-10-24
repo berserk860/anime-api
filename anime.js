@@ -26,7 +26,7 @@ const anime = [
 
      {
         id: 1,
-        title: "Re: Zero - Starting Life in Another World",
+        title: "Re Zero season 1",
         alternativeTitles: ["re: zero"],
         description: "Re:Zero − Starting Life in Another World is a dark fantasy and isekai anime/light novel series about Subaru Natsuki, an ordinary young man suddenly transported to a fantasy world.",
 
